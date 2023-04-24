@@ -1,4 +1,4 @@
-# ka568.github.io
+# Personal notes
 
 from nanoscience to a software engineer
 
