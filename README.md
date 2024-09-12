@@ -1,15 +1,21 @@
-# Personal notes
 
-from nanoscience to a software engineer
+---
 
-what I see, what I learn, what I understand !
+# Welcome to My GitHub Page
 
-I hope I can write something when I grow up,  write down don't forget it's a hard way for become a good software engineer.
+Hi there!
 
-best luck!
+Welcome to my personal space on GitHub. This is where I document my journey, share projects, and explore new ideas.
 
+### What I’m Learning
+This journey has had its challenges, but each step has made me stronger. I’m continuously learning and growing, and I use this platform to reflect on and document that progress.
 
+### A Work in Progress
+Some of the lessons have been tough, but they've all contributed to my growth. Here, you'll find notes, projects, and experiments as I navigate through these experiences. I hope you find them useful or inspiring!
 
-more info -->> see BRANCH mater
+Stay tuned for more updates as I continue to learn and share.
 
-Thank you!
+Best,  
+Kang
+
+---
