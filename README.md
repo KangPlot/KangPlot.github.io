@@ -1,7 +1,7 @@
 
 ---
 
-# Welcome to My GitHub Page
+# Welcome to Kang's Space
 
 Hi there!
 
