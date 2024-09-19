@@ -1,11 +1,11 @@
 # Site settings
 title: 转码自留地
-SEOTitle: zhuanmaziliudi
+SEOTitle: KangPlot
 header-img: img/home-bg.jpg
 # email: 
 description: "与你一起发现更大的世界。"
 keyword: "材料转行, 互联网, 后端，Go, Java, Big Data"
-url: "https://xpengkang.github.io"              # your host, for absolute URL
+url: "https://KangPlot.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -14,8 +14,8 @@ baseurl: ""                             # for example, '/blog' if your blog host
 RSS: false
 # weibo_username:     xxxx
 # zhihu_username:     xxxxxxxxx
-github_username:    xpengkang
-leetcode_username:  xpengkang
+github_username:    KangPlot
+leetcode_username:  KangPlot
 leetcode_cn_username:  u/zhuanmaziliudi
 # linkedin_username:  
 bilibili_username:  490052151?spm_id_from=333.1007.0.0
@@ -61,7 +61,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: ''            # Format: UA-xxxxxx-xx
-ga_domain: xpengkang.github.io
+ga_domain: KangPlot.github.io
 
 
 
