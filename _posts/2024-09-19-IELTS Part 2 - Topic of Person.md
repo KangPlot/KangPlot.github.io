@@ -11,9 +11,29 @@ tags:
 
 ## Part 2 喜欢做手工的人
 
+<style>
+        .summary-button {
+            cursor: pointer;
+            font-size: 1.0em;
+            align-items: center;
+        }
+
+        .summary-button:hover {
+            color: #000;
+        }
+
+        .content {
+            display: none;
+            margin-top: 10px;
+        }
+
+        details[open] .content {
+            display: block;
+        }
+</style>
 
 <details>
-<summary>手工耿</summary>
+<summary><button class="summary-button">🦉 Content about 手工耿</button></summary>
 
 
 手工耿。他是一位在Bilibili上非常受欢迎的内容创作者，以其独特的手工制作项目而闻名。他的视频展示了他用自己动手制作各种物品的过程，包括机械装置、创意玩具和日常用品。手工耿以其精细的工艺和创意赢得了大量粉丝的喜爱，他的内容不仅展示了高超的手工技艺，还常常带有幽默和娱乐性。他的工作让人印象深刻，因为他能将简单的材料变成复杂且有趣的作品。
@@ -110,4 +130,4 @@ Then, a few months ago, out of the blue, I got a message from him. It turned out
 After reconnecting, I felt a bit <span style="color:red">nostalgic</span>. It was nice to be in touch with someone who knew me from my university days, and it reminded me of how important <span style="color:red">old friendships</span> are. I’m really glad we reconnected, and now we’re planning to stay in touch more regularly.
 
 
---- updating...
+--- updating...🦉
